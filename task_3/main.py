@@ -1,4 +1,4 @@
-#Темник Кирилл
+#Кирилл
 import math
 
 number = int(input("Введите число "))
@@ -8,3 +8,4 @@ j = 1
 while i < number:
     print (i)
     i, j = j, i + j
+
