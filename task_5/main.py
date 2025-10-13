@@ -1,4 +1,5 @@
 #Кирилл
+#Вариант 3
 import math
 
 list = [-12, 79, 4, 6, 854, 76, -4, 10, 43, 2, -35, 20, 5, 1, 94]
@@ -9,4 +10,5 @@ for i in list:
         count = count + 1
 
 print(count)
+
 
